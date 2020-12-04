@@ -7,6 +7,6 @@ For this question, I implemented the Hough transform from scratch with Python an
 
 Input            |  Output
 :-------------------------:|:-------------------------:
-![input](./input/road.png  |  ![output](./output/out.png)
+![input](./input/road.png)  |  ![output](./output/out.png)
 
 
